@@ -1,7 +1,7 @@
 # March Madness Predictions
 
 
-##Introduction 
+## Introduction 
 
 This is a personal project used to explore webscraping techniques by gathering data from basketball reference in order to fit a model to the data and predict the winners of the NCAA Men's national basketball championship (aka March Madness) tournoment games. Full project notebook available under MM.ipynb
 
